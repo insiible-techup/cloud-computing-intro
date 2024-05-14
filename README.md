@@ -2,7 +2,7 @@
 
 This is a repository for the Cloud Computing course at the Insiible Tech training.
 
-## Table of contents
+## Table of content
 
 * [What is cloud computing](https://github.com/insiible-techup/cloud-computing-intro/blob/main/1.what-is-the-cloud.md)
 
